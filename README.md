@@ -17,10 +17,10 @@
 
 ## Election Audit Summary
 ### This script can be used with any election results by changing the source file.
-'''
+```
 file_to_load = os.path.join( "Resources", "election_results.csv")
-'''
+```
 ### You can also change the output file by changing the output path
-'''
+```
 file_to_save = os.path.join("analysis", "election_analysis.txt")
-'''
+```
