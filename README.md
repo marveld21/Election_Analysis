@@ -1,7 +1,7 @@
-# Election_Analysis
+# Election Analysis
 
 ## Overview of Election Audit
-### We are tasked with analyizing results from an election using the polling data.
+### We are tasked with analyzing results from an election using the polling data.
 
 ## Election Audit Results
 ### Election turnout by county:
@@ -16,11 +16,11 @@
 ### The election winner is DIANNA DEGTTE
 
 ## Election Audit Summary
-### This script can be used with any election results by changing the source file.
+### This script can be used with other election results by changing the source file.
 ```
 file_to_load = os.path.join( "Resources", "election_results.csv")
 ```
-### You can also change the output file by changing the output path
+### You can also change the output file by changing the path of the save file.
 ```
 file_to_save = os.path.join("analysis", "election_analysis.txt")
 ```
