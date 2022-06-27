@@ -13,7 +13,7 @@
 - Raymon Anthony Doane, 11,606 total votes, 3.1% of total votes
 - Charles Casper Stockham, 85,213 total votes, 23.0% of total votes
 - Dianna DeGette, 272,892 total votes, 73.8% of total votes
-### The election winner is DIANNA DEGTTE
+### The election winner is DIANNA DEGETTE
 
 ## Election Audit Summary
 ### The script works as intended and prints an analysis text file located in the analysis folder.
