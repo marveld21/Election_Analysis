@@ -1,7 +1,7 @@
 # Election Analysis
 
 ## Overview of Election Audit
-### We are tasked with analyzing results from an election using the polling data. We also need to create a python script that will be able to break down data in future elections.
+### We are tasked with analyzing results from an election using the polling data. We also need to create a python script that will be able to break down data in future elections. The key results being looked at are turnout by county and the election results by candidate.
 
 ## Election Audit Results
 ### Election turnout by county:
